@@ -20,8 +20,7 @@ Disclaimer - Trust no one, use your brain! (**Work continuously in progress**)
       * Switchover
       * Service rollback
 
-
-##Automated processes
+## Automated processes
 
 * Continuous development
    * Tests
@@ -48,7 +47,7 @@ Disclaimer - Trust no one, use your brain! (**Work continuously in progress**)
    * [Images builder](https://github.com/paunin/images-builder)
    * Services provisioning([Ansible](https://www.ansible.com/))
 
-##Implementation
+## Implementation
 
 * System layers
    * Hardware: Servers and networks
