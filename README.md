@@ -96,6 +96,7 @@ Disclaimer - Trust no one, use your brain! (**Work continuously in progress**)
                * Db content (custom checks)
                * Cache utilization check
          * Alerting policies ([Prometeus](http://www.prometeus.net/site/), [NewRelic](https://newrelic.com))
+         * Tracing system agent ([zipkin](http://zipkin.io/))
          * Self-sufficiency 
             * Interfaces documentation
                * Restful API
@@ -120,6 +121,7 @@ Disclaimer - Trust no one, use your brain! (**Work continuously in progress**)
          * Ceph
          * NFS
 * Common services 
+   * Tracing system ([Zipkin](http://zipkin.io/))
    * Single sign-on service
       * Authentication service ([JWT](https://jwt.io/))
       * Authorization requests from all services
