@@ -58,7 +58,7 @@ Disclaimer - Trust no one, use your brain! (**Work continuously in progress**)
          * Network
          * Resources and load
       * Alerting policy
-   * Cluster: Services management system  ([Kubernrtes](http://kubernetes.io/), alternatives: [OpenShift](https://www.openshift.com),[Apache Mesos/Apache Karaf](http://servicemix.apache.org/))
+   * Cluster: Services management system  ([Kubernetes](http://kubernetes.io/), alternatives: [OpenShift](https://www.openshift.com),[Apache Mesos/Apache Karaf](http://servicemix.apache.org/))
       * Monitoring
          * Availability of each node in the cluster
          * All services up and running
