@@ -39,7 +39,7 @@ Disclaimer - Trust no one, use your brain! (**Work continuously in progress**)
       * Code coverage percentage
    * Conditions of disintegration a feature
       * Error rate after deploy live
-      * Helthchecks
+      * Healthchecks
    * Storing a new tested snapshots/artefact of a service
       * Artefact storage (Docker registry)
          * Cleanup policy (Delete old tags with timeout)
